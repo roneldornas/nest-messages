@@ -1,0 +1,13 @@
+### List all messages
+GET https://didactic-goggles-p74j94jwx3r6jg-3000.app.github.dev/messages
+
+### Create new message
+POST https://didactic-goggles-p74j94jwx3r6jg-3000.app.github.dev/messages
+Content-Type: application/json
+
+{
+    "content": "hellow world!!"
+}
+
+### Get a particular message
+GET https://didactic-goggles-p74j94jwx3r6jg-3000.app.github.dev/messages/123
