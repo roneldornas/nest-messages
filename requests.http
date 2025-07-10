@@ -6,8 +6,8 @@ POST https://didactic-goggles-p74j94jwx3r6jg-3000.app.github.dev/messages
 Content-Type: application/json
 
 {
-    "content": "hello world 2"
+    "content": "hello world 3"
 }
 
 ### Get a particular message
-GET https://didactic-goggles-p74j94jwx3r6jg-3000.app.github.dev/messages/571
+GET https://didactic-goggles-p74j94jwx3r6jg-3000.app.github.dev/messages/57
